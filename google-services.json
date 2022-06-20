@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1069460091038",
+    "project_id": "student-course-booking",
+    "storage_bucket": "student-course-booking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069460091038:android:f72ea24240cd0c8a2ecb8f",
+        "android_client_info": {
+          "package_name": "com.example.studentcoursebookingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069460091038-s04qvid3hv67im4b1q40ccq3optmg35r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiweUQvjv8B823EuikSIRSmNsOrSlFUGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069460091038-s04qvid3hv67im4b1q40ccq3optmg35r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
